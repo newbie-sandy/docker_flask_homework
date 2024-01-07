@@ -2,6 +2,10 @@
 
 The process of Dockerizing the applications in both parts.
 
-The build and run commands used.
+- The build and run commands used.
+
+  docker images
+
+  docker run
 
 Observations, challenges faced, and reflections on the use of Docker and Docker Compose.
