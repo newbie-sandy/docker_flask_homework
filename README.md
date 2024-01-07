@@ -6,7 +6,7 @@
 
 - The build and run commands used.
 
-  - docker build -t (NAME of Docker Image) . - Pull down python:3.7 alpine
+  - docker build -t (NAME of Docker Image) . - ### Pull down python:3.7 alpine
 
   - docker images
     ![image](https://github.com/newbie-sandy/docker_flask_homework/assets/143536852/0c75eebc-0a65-4428-b2e4-a9adca324648)
