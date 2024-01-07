@@ -2,7 +2,7 @@
 
 - Docker utilizes containerization technology to address the challenge of version discrepancies between operating systems and Python generations. It allows for the creation of isolated environments, known as containers, ensuring consistency and portability across different platforms.
 - Docker Compose
-
+- .yml / .yaml: scripting language providing more commands for docker images
 - The process of Dockerizing the applications in both parts.
 
 - The build and run commands used.
