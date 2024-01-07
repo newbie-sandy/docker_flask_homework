@@ -6,6 +6,8 @@
 
 - The build and run commands used.
 
+  - docker build -t <NAME>
+
   - docker images
 
   - docker run
