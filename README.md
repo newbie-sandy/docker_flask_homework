@@ -12,6 +12,6 @@
     ![image](https://github.com/newbie-sandy/docker_flask_homework/assets/143536852/0c75eebc-0a65-4428-b2e4-a9adca324648)
 
 
-  - docker run
+  - docker run -p (LOCAL PORT): (VM port) (Name of Docker Image)
 
 Observations, challenges faced, and reflections on the use of Docker and Docker Compose.
