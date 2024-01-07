@@ -15,7 +15,7 @@
 
   - docker run -p (LOCAL PORT): (VM port) (Name of Docker Image)
   - docker run -d -p 8080:5000 sandy   #-d for detach run container in the background??
-  - docker ps   # list of available container id
+  - docker ps   # list of running container id
   - docker stop (CONTAINER ID)
 
 
