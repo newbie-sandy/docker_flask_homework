@@ -14,8 +14,12 @@
 
 
   - docker run -p (LOCAL PORT): (VM port) (Name of Docker Image)
-  - docker run -d -p 8080:5000 sandy   #-d for detach
+  - docker run -d -p 8080:5000 sandy   #-d for detach run container in the background??
+  - docker ps   # list of available container id
+  - docker stop (CONTAINER ID)
 
 
 - Troubleshooting
 ![image](https://github.com/newbie-sandy/docker_flask_homework/assets/143536852/4482f290-05cb-463b-9060-0ed74fec43f2)
+![image](https://github.com/newbie-sandy/docker_flask_homework/assets/143536852/c8b2907d-8531-4255-80bf-0df3b99ebcfa)
+
