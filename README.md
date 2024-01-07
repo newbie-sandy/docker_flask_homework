@@ -14,6 +14,7 @@
 
 
   - docker run -p (LOCAL PORT): (VM port) (Name of Docker Image)
+  - docker run -d -p 8080:5000 sandy # -d for detach
 
 
 - Troubleshooting
